@@ -1,2 +1,2 @@
-MasterBank.bank = modified copy of the IL-2 Great Battles sound bank (1C Game Studios), all stock sounds included. Check 1C's modding rules before this repo goes public (alternative: ship a patcher that builds the bank from the user's own game).
+MasterBank.bank is a modified copy of the IL-2 Great Battles sound bank (c) 1C Game Studios, with every stock sound plus the processed gun samples. It only works inside IL-2 Great Battles.
 No War Thunder assets.
