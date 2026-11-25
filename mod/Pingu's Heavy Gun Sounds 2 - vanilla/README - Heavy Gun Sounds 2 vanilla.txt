@@ -1,1 +1,0 @@
-Pingu's Heavy Gun Sounds 2 - vanilla (18 Nov 2026): stock MasterBank.bank + calibre-scaled clones of 93 stock gun events, 145 stock plane/gunner cfgs pointed at them (Flying Circus WWI guns stay stock: no calibre class). Stock game only, not with Jungle Hawks. Not heard in game.
